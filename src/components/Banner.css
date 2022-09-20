@@ -1,0 +1,37 @@
+
+.custom-col{
+    background:
+     linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.3)), url(./images/pexels-pixabay-373076.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.text-section{
+    margin-top: 100px;
+
+}
+.text-section h1{
+    font-size: 70px;
+}
+.custom-btn{
+    padding: 10px 30px;
+    border-radius: 25px;
+    border: none;
+    background: rgb(0,0,0);
+background: linear-gradient(125deg, rgba(0,0,0,1) 0%, rgba(44,199,210,1) 0%, rgba(40,170,203,1) 33%, rgba(33,121,191,1) 59%, rgba(30,102,186,1) 95%, rgba(78,78,78,1) 100%);
+color: white;
+}
+.custom-btn:hover{
+   background:#2AB9CD ;
+   transition: 0.3s;
+}
+@media screen and (max-width: 769px) {
+    .text-section h1{
+        font-size: 50px;
+    }
+  }
+@media screen and (max-width: 769px) {
+    .text-section p{
+        font-size: 15px;
+    }
+  }

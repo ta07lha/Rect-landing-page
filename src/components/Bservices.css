@@ -1,0 +1,13 @@
+.custom-cnt{
+    background: rgb(0,0,0);
+    background: linear-gradient(125deg, rgba(0,0,0,1) 0%, rgba(44,199,210,1) 0%, rgba(40,170,203,1) 33%, rgba(33,121,191,1) 59%, rgba(30,102,186,1) 95%, rgba(78,78,78,1) 100%);
+}
+.custom-colum1 h2{
+  font-weight: 1000;
+}
+.custom-colum1 p{
+  color: #f5f5f5;
+}
+.custom-r1 p{
+    color: #f5f5f5;
+}

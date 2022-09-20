@@ -1,0 +1,41 @@
+.custom-cnt1{
+    background-color: whitesmoke;
+}
+.custom-column3 h2{
+    font-weight: 1000;
+}
+.custom-img1{
+    border-radius: 50%;
+}
+.content-1 p{
+ color: gray;
+}
+.content-1 h6{
+    font-weight: bold;
+    color: gray;
+}
+@media only screen and (max-width: 321px){
+    .content-1 p{
+        font-size: 8px;
+       }
+}
+@media only screen and (max-width: 376px){
+    .content-1 p{
+        font-size: 10px;
+       }
+}
+@media only screen and (max-width: 426px){
+    .content-1 p{
+        font-size: 13px;
+       }
+}
+@media only screen and (max-width: 769px){
+    .content-1 p{
+        font-size: 6px;
+       }
+}
+@media only screen and (max-width: 1025px){
+    .content-1 p{
+        font-size: 10px;
+       }
+}

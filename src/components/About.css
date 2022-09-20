@@ -1,0 +1,30 @@
+.custom-col1 h2{
+    font-weight: 1000;
+}
+.custom-col1 p{
+    color: gray;
+}
+.custom-col2{
+    font-size: 15px;
+}
+.iccn1{
+    color: skyblue;
+}
+@media only screen and (max-width: 769px){
+    .custom-col1 p{
+       font-size: 12px;
+    }
+  }
+@media only screen and (max-width: 769px){
+    .custom-col1 h2{
+       font-size: 20px;
+      
+    }
+  }
+@media only screen and (max-width: 769px){
+    .custom-col2 p{
+       font-size: 10px;
+      
+    }
+  }
+  
